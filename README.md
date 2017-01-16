@@ -1,4 +1,4 @@
-# poor css padding margin for lazy guys )) 
+# Common css padding margin for lazy guys )) 
 
 example:
 ``` 
