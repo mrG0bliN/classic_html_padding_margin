@@ -1,5 +1,5 @@
 # poor css padding margin for lazy guys )) 
 
-``` example
+example:
+``` 
 <footer class="pt25 pb50">footer</footer> 
-
